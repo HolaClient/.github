@@ -1,4 +1,4 @@
-![image](https://github.com/HolaClient/HolaClient/assets/102372274/8cc5e386-223c-434e-ab35-e587515d5138)
+![holaclient-plain](https://github.com/HolaClient/.github/assets/102372274/5547ffce-6fb9-42c5-a9b6-a529c9f0d0cc)
 <p align="center">
   <a href="https://discord.gg/CvqRH9TrYK"><img src="https://img.shields.io/discord/1038719273658499072?color=blue&label=Discord&logo=HolaClient&logoColor=blue" alt="discord" /></a>
   <a href="https://holaclient.tech"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://holaclient.tech"></a>
