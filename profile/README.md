@@ -10,9 +10,9 @@
 
 <h1 align="center">HolaClient</h1>
 
-An open-source software designed for managing various external services, like Pterodactyl, Proxmox, and more. It also features a standalone mode, allowing you to host websites, SMTP, databases, NodeJS, and other services using Docker.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium laboriosam saepe temporibus reprehenderit ad mollitia aliquid rem laudantium porro ipsum, omnis ducimus dolorem libero culpa ab odit placeat repellat sed?
 
 ---
 
 <br>
-<p align="center">Copyright © 2022 - 2024 CR072</p>
+<p align="center">Copyright © 2022 - 2025 CR072</p>
