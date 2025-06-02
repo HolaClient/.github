@@ -5,15 +5,5 @@
   <img src="https://komarev.com/ghpvc/?username=CR072&color=blue">
 </p>
 
----
-
-# DISCONTINUATION NOTICE
-
-This project has been officially **archived** and is no longer maintained.
-
-Thank you to everyone who supported the project.
-
----
-
 <br>
 <p align="center">Copyright © 2022 - 2025 HolaClient</p>
